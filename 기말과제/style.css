@@ -1,0 +1,163 @@
+.home-Nqy {
+  background-color: #eeeeee;
+  box-sizing: border-box;
+  height: 108rem;
+  padding: 3.2rem 0rem 4rem 0rem;
+  width: 100%;
+
+  .divwrap-zMZ {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+
+    .auto-group-uatt-NmR {
+      flex-shrink: 0;
+      height: 93.8rem;
+      margin-bottom: 4rem;
+      position: relative;
+      width: 100%;
+
+      .header-6xK {
+        align-items: flex-start;
+        display: flex;
+        height: 76rem;
+        left: 6.1458rem;
+        position: absolute;
+        top: 0;
+        width: 183.1042rem;
+
+        .auto-group-v5ej-z27 {
+          flex-shrink: 0;
+          height: 7.1rem;
+          margin: 1.891rem 125.404rem 0rem 0rem;
+          position: relative;
+          width: 11.6rem;
+
+          .frame-1-ttB {
+            align-items: center;
+            border: solid 0.3rem #000000;
+            box-sizing: border-box;
+            color: #000000;
+            display: flex;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.7rem;
+            font-weight: 400;
+            height: 3.8rem;
+            justify-content: center;
+            left: 0;
+            letter-spacing: 0.015rem;
+            line-height: 1.6470588235;
+            position: absolute;
+            top: 0;
+            white-space: nowrap;
+            width: 6.1rem;
+          }
+          .frame-2-G1Z {
+            align-items: center;
+            border: solid 0.3rem #000000;
+            box-sizing: border-box;
+            color: #000000;
+            display: flex;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.7rem;
+            font-weight: 400;
+            height: 3.8rem;
+            justify-content: center;
+            left: 0;
+            letter-spacing: 0.015rem;
+            line-height: 1.6470588235;
+            position: absolute;
+            top: 3.3rem;
+            white-space: nowrap;
+            width: 11.6rem;
+          }
+        }
+        .divdate-contact-Wgb {
+          align-items: flex-end;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          height: 100%;
+          width: 46.1rem;
+
+          .auto-group-inuj-e27 {
+            align-items: center;
+            display: flex;
+            flex-shrink: 0;
+            margin: 0rem 1.406rem 31.2rem 5.85rem;
+            width: calc(100% - 7.256rem);
+
+            .item-20112019-m6j {
+              color: #333333;
+              display: flex;
+              flex-shrink: 0;
+              font-family: Inter, 'Source Sans Pro';
+              font-size: 1.7rem;
+              font-weight: 400;
+              letter-spacing: 0.015rem;
+              line-height: 1.6470588235;
+              margin-right: 22.844rem;
+              white-space: nowrap;
+            }
+            .link-contact-dud {
+              color: #333333;
+              display: flex;
+              flex-shrink: 0;
+              font-family: Inter, 'Source Sans Pro';
+              font-size: 1.7rem;
+              font-weight: 400;
+              letter-spacing: 0.015rem;
+              line-height: 1.6470588235;
+              text-decoration-line: underline;
+              white-space: nowrap;
+            }
+          }
+          .lorem-ipsum-dolor-sit-amet-consectetur-enim-quam-lectus-vel-vulputate-erat-ipsum-elementum-orci-orci-viverra-mauris-lacus-at-feugiat-nunc-ridiculus-nulla-neque-habitant-volutpat-quam-pretium-sagittis-mollis-pellentesque-lacus-ut-pharetra-mattis-a-elit-praesent-mollis-sit-facilisis-pulvinar-ipsum-viverra-augue-leo-sapien-id-duis-elementum-mauris-morbi-lorem-suspendisse-amet-sit-luctus-in-maecenas-adipiscing-dignissim-massa-aliquam-fermentum-vitae-orci-mi-ante-ligula-eget-dolor-odio-nunc-amet-in-magnis-pulvinar-cras-non-iaculis-ullamcorper-leo-nunc-purus-ut-dignissim-pharetra-pulvinar-felis-ultricies-dictum-eget-quam-aenean-orci-posuere-tortor-sit-vel-faucibus-commodo-enim-at-faucibus-diam-urna-ipsum-phasellus-quisque-vitae-venenatis-massa-M4w {
+            align-items: center;
+            color: #000000;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.7rem;
+            font-weight: 400;
+            justify-content: center;
+            letter-spacing: 0.015rem;
+            line-height: 1.6470588235;
+            max-width: 46.1rem;
+            width: 100%;
+          }
+        }
+      }
+      .divslideshow-8tK {
+        height: 77.3rem;
+        left: 0;
+        overflow: hidden;
+        position: absolute;
+        top: 16.5rem;
+        width: 141rem;
+
+        .slide-01jpg-s5D {
+          background-image: url('./images/1.jpg');
+          background-position: 0 -8.3735rem;
+          background-size: 100% 121.665%;
+          height: 77.3rem;
+          position: relative;
+          width: 141rem;
+        }
+      }
+    }
+    .footer-made-publishers-2021-jt7 {
+      color: #333333;
+      display: flex;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 1.5rem;
+      font-weight: 400;
+      letter-spacing: 0.015rem;
+      line-height: 2;
+      margin-left: 4rem;
+      white-space: nowrap;
+    }
+  }
+}
